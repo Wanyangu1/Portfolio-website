@@ -1,4 +1,5 @@
-Portfolio Website
+Portfolio Website,
+
 A modern, responsive portfolio website built with React and Vite, showcasing projects, skills, and professional information.
 
 Features
@@ -26,7 +27,7 @@ Node.js & npm
 Installation
 Clone the repo:
 
-git clone https://github.com/YourUsername/portfolio-website.git  
+git clone https://github.com/wanyangu1/portfolio-website.git  
 cd portfolio-website  
 Install dependencies:
 
